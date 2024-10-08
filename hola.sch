@@ -1,3 +1,2 @@
-l,lml,ola
-pallalal,amozl,asl,
-ytfyyvy7gygy
+(display "hola pescao")
+(newline)
